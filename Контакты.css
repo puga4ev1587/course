@@ -1,0 +1,10 @@
+.u-nav-item{
+  color: #000;
+}
+.menu{
+  display: flex;
+}
+
+.u-menu-dropdown{
+    top: 45px;
+}
